@@ -1,0 +1,221 @@
+canonical_key,total_mentions,variations,final_gender_contextual,coref_gender
+Lucy,240,['Lucy'],Female,Female
+Van_Helsing,215,['Van Helsing'],Unknown,Unknown
+Mina,197,"['MINA', 'Mina']",Male,Male
+Jonathan,178,"[' Jonathan', 'JONATHAN', 'Jonathan']",Male,Male
+Arthur,154,"['Art', 'Arthur', 'Lord Arthur']",Male,Male
+Professor,117,['Professor'],Male,Male
+Lord_Godalming,90,"['Godalming', 'Lord Godalming']",Male,Male
+Seward,84,[' Seward'],Male,Male
+Harker,66,[' Harker'],Male,Male
+God,66,['God'],Male,Male
+John,62,"['JOHN', 'John']",Male,Male
+Van_Helsing,52,[' Van Helsing'],Unknown,Unknown
+Van,50,['Van'],Male,Male
+Quincey,48,['Quincey'],Male,Male
+Harker,46,['Harker'],Male,Male
+Renfield,36,['Renfield'],Male,Male
+Seward,32,['Seward'],Male,Male
+Morris,32,[' Morris'],Male,Male
+Jonathan_Harker,24,['Jonathan Harker'],Male,Male
+Miss_Lucy,21,['Miss Lucy'],Female,Female
+Quincey_Morris,20,['Quincey Morris'],Unknown,Unknown
+Count,20,['Count'],Male,Male
+Morris,19,['Morris'],Male,Male
+Lucy_Westenra,16,"['Lucy Westenra', 'Miss Lucy Westenra']",Female,Female
+Mina_Harker,16,['Mina Harker'],Unknown,Unknown
+Westenra,15,"['Miss Westenra', 'Mrs. Westenra', 'Westenra']",Male,Male
+Westenra,14,[' Westenra'],Male,Male
+Madam,14,['Madam'],Female,Female
+Hawkins,13,[' Hawkins'],Male,Male
+Dracula,11,['Dracula'],Male,Male
+Mina_Murray,10,"['Mina Murray', 'Miss Mina Murray']",Unknown,Unknown
+Arthur_Holmwood,10,['Arthur Holmwood'],Male,Male
+Czarina,10,['Czarina'],Unknown,Unknown
+Count_Dracula,9,['Count Dracula'],Unknown,Unknown
+Professor_Van_Helsing,9,['Professor Van Helsing'],Unknown,Unknown
+Skinsky,9,['Skinsky'],Male,Male
+Hawkins,8,['Hawkins'],Male,Male
+Renfield,8,[' Renfield'],Male,Male
+Jack,8,['Jack'],Male,Male
+Galatz,8,['Galatz'],Male,Male
+Holmwood,6,[' Holmwood'],Male,Male
+Bersicker,6,['Bersicker'],Male,Male
+Peter_Hawkins,6,['Peter Hawkins'],Male,Male
+Swales,5,[' Swales'],Male,Male
+Murray,5,"['Miss Murray', 'Murray']",Female,Female
+John_Seward,5,['John Seward'],Male,Male
+Billington,4,[' Billington'],Male,Male
+Czarina_Catherine,4,['Czarina Catherine'],Unknown,Unknown
+Catherine,4,['Catherine'],Female,Female
+Enoch,3,['Enoch'],Male,Male
+Thomas,3,['Thomas'],Male,Male
+Billington,3,['Billington'],Male,Male
+Kettleness,3,['Kettleness'],Unknown,Unknown
+Whitby,3,['Whitby'],Male,Male
+Helsing,3,['Helsing'],Male,Male
+Nature,3,['Nature'],Male,Male
+Bilder,3,[' Bilder'],Male,Male
+Sister_Agatha,3,['Sister Agatha'],Unknown,Unknown
+Carfax,3,['Carfax'],Male,Male
+Smollet,3,['Smollet'],Male,Male
+Varna,3,['Varna'],Male,Male
+Madam_Mina,3,['Madam Mina'],Female,Female
+Deil,3,['Deil'],Male,Male
+Hildesheim,3,['Hildesheim'],Male,Male
+Piccadilly,3,['Piccadilly'],Male,Male
+Quincey_Morris,3,[' Quincey Morris'],Unknown,Unknown
+Thor,2,['Thor'],Male,Male
+Abraham,2,['Abraham'],Male,Male
+Hamlet,2,['Hamlet'],Unknown,Male
+Shakespeare,2,['Shakespeare'],Unknown,Male
+Quincey_P._Morris,2,['Quincey P. Morris'],Unknown,Unknown
+Sir_John_Paxton,2,"['John Paxton', 'Sir John Paxton']",Male,Male
+Hon,2,['Hon'],Unknown,Unknown
+Bram_Stoker,2,['Bram Stoker'],Unknown,Unknown
+Wilhelmina,2,['Wilhelmina'],Male,Male
+Lor,2,['Lor'],Male,Male
+Mother,2,['Mother'],Female,Female
+Abraham_Van_Helsing,2,['Abraham Van Helsing'],Male,Male
+Ring,2,['Ring'],Female,Female
+Vincent,2,['Vincent'],Male,Male
+Death,2,['Death'],Male,Male
+Carter_Paterson,2,['Carter Paterson'],Unknown,Unknown
+Jack_Seward,2,['Jack Seward'],Unknown,Unknown
+Captain_Donelson,2,"['Captain Donelson', 'Donelson']",Male,Male
+Arminius,2,['Arminius'],Male,Male
+Sam,2,['Sam'],Male,Male
+Potter,2,['Potter'],Unknown,Unknown
+Corcoran,2,['Corcoran'],Male,Male
+Doctor,2,['Doctor'],Male,Male
+D,2,"['D', 'd']",Unknown,Unknown
+Sam_Bloxam,2,['Sam Bloxam'],Male,Male
+Winchesters,2,['Winchesters'],Unknown,Unknown
+Szgany,2,['Szgany'],Male,Male
+Rufus,2,['Rufus'],Unknown,Unknown
+Devil,2,['Devil'],Male,Male
+Petrof_Skinsky,2,['Petrof Skinsky'],Unknown,Unknown
+Smith,2,['Smith'],Male,Male
+Edward,1,['Edward'],Male,Male
+Lenore,1,['Lenore'],Unknown,Unknown
+Harker_Jonathan,1,['Harker Jonathan'],Unknown,Unknown
+Purfleet,1,['Purfleet'],Male,Male
+Wodin,1,['Wodin'],Unknown,Unknown
+Attila,1,['Attila'],Unknown,Unknown
+Cassova,1,['Cassova'],Unknown,Unknown
+Romanoffs,1,['Romanoffs'],Unknown,Unknown
+Peter,1,['Peter'],Male,Male
+Judas,1,['Judas'],Male,Male
+Quincey_P._Morris,1,[' Quincey P. Morris'],Unknown,Unknown
+R,1,['R'],Unknown,Unknown
+M,1,['M'],Unknown,Unknown
+Burger,1,['Burger'],Unknown,Unknown
+George_Canon,1,['George Canon'],Male,Male
+Spencelagh,1,['Spencelagh'],Unknown,Male
+Braithwaite_Lowrey,1,['Braithwaite Lowrey'],Unknown,Unknown
+Andrew_Woodhouse,1,['Andrew Woodhouse'],Male,Male
+John_Rawlings,1,['John Rawlings'],Male,Male
+Judgment,1,['Judgment'],Male,Male
+Crescent,1,['Crescent'],Unknown,Unknown
+Gabriel,1,['Gabriel'],Male,Male
+Geordie,1,['Geordie'],Male,Male
+Burdon,1,['Burdon'],Unknown,Unknown
+Woods,1,['Woods'],Unknown,Unknown
+Robin,1,['Robin'],Female,Female
+Hood,1,['Hood'],Female,Female
+Bay,1,['Bay'],Male,Male
+Casabianca,1,['Casabianca'],Male,Male
+Caffyn,1,['Caffyn'],Unknown,Male
+Thomas_Bilder,1,['Thomas Bilder'],Male,Male
+Hardy,1,['Hardy'],Unknown,Unknown
+S,1,['S'],Unknown,Unknown
+Sir_Oracle,1,['Sir Oracle'],Male,Male
+F,1,['F'],Unknown,Unknown
+Petrofsky,1,['Petrofsky'],Unknown,Unknown
+Abramoff,1,['Abramoff'],Unknown,Unknown
+Olgaren,1,['Olgaren'],Unknown,Male
+Spohr,1,['Spohr'],Unknown,Unknown
+Mackenzie,1,['Mackenzie'],Unknown,Unknown
+Rose,1,['Rose'],Female,Female
+Joy,1,['Joy'],Male,Male
+Wilhelmina_Murray,1,['Wilhelmina Murray'],Unknown,Unknown
+Jack_Sheppard,1,['Jack Sheppard'],Unknown,Unknown
+Agatha,1,['Agatha'],Male,Male
+Disraeli,1,['Disraeli'],Unknown,Male
+Write,1,['Write'],Male,Male
+Wire,1,['Wire'],Male,Male
+Zoöphagous,1,['Zoöphagous'],Male,Male
+Telegram,1,['Telegram'],Male,Male
+Holmwood,1,['Holmwood'],Male,Male
+Dame_Nature,1,['Dame Nature'],Female,Female
+Madame,1,['Madame'],Female,Female
+Love,1,['Love'],Male,Male
+Vanderpool,1,['Vanderpool'],Unknown,Unknown
+Ophelia,1,['Ophelia'],Unknown,Unknown
+Bilder,1,['Bilder'],Male,Male
+Red_Riding_Hood,1,['Red Riding Hood'],Unknown,Unknown
+Old_Bilder,1,['Old Bilder'],Unknown,Unknown
+Patrick_Hennessey,1,['Patrick Hennessey'],Male,Male
+Marquand,1,[' Marquand'],Unknown,Unknown
+Poters_Cort,1,['Poters Cort'],Unknown,Unknown
+Green,1,['Green'],Male,Male
+Arsk,1,['Arsk'],Male,Male
+King,1,['King'],Male,Male
+Ellen_Terry,1,['Ellen Terry'],Female,Female
+John_Seward,1,[' John Seward'],Male,Male
+Holland,1,['Holland'],Male,Male
+Mary,1,['Mary'],Female,Female
+Finis,1,['Finis'],Unknown,Unknown
+Charcot,1,['Charcot'],Male,Male
+Bloxam,1,[' Bloxam'],Male,Male
+Old,1,['Old'],Male,Male
+Parr,1,['Parr'],Unknown,Unknown
+Byron,1,['Byron'],Unknown,Male
+Vincent,1,[' Vincent'],Male,Male
+Scott,1,['Scott'],Unknown,Unknown
+Methuselah,1,['Methuselah'],Unknown,Unknown
+Almighty_God,1,['Almighty God'],Unknown,Unknown
+Goodness,1,['Goodness'],Female,Female
+Hennessey,1,[' Hennessey'],Unknown,Unknown
+Draculas,1,['Draculas'],Unknown,Unknown
+Windham,1,['Windham'],Male,Male
+Derby,1,['Derby'],Male,Male
+Union,1,['Union'],Unknown,Unknown
+Domine,1,['Domine'],Male,Male
+Thomas_Snelling,1,['Thomas Snelling'],Male,Male
+Joseph_Smollet,1,[' Joseph Smollet'],Male,Male
+Bloxam,1,['Bloxam'],Male,Male
+Korkrans,1,['Korkrans'],Unknown,Unknown
+Medusa,1,['Medusa'],Unknown,Unknown
+Viking,1,['Viking'],Male,Male
+Dead,1,['Dead'],Male,Male
+Simmons,1,['Simmons'],Unknown,Unknown
+Malvolio,1,['Malvolio'],Male,Male
+Acherontia,1,['Acherontia'],Unknown,Unknown
+Moon,1,['Moon'],Male,Male
+Harkers,1,['Harkers'],Male,Male
+Friend_Quincey,1,['Friend Quincey'],Unknown,Unknown
+Arminus,1,['Arminus'],Unknown,Unknown
+Tally_Ho,1,['Tally Ho'],Unknown,Unknown
+Doolittle,1,['Doolittle'],Female,Female
+Ristics,1,['Ristics'],Male,Male
+Angel,1,['Angel'],Female,Female
+Judge_Moneybag,1,['Judge Moneybag'],Unknown,Unknown
+Dardanelles,1,['Dardanelles'],Unknown,Unknown
+Lloyd,1,['Lloyd'],Male,Male
+Rufus_Smith,1,['Rufus Smith'],Unknown,Unknown
+Kukri,1,['Kukri'],Male,Male
+Exeter,1,['Exeter'],Male,Male
+Morris_Quincey,1,['Morris Quincey'],Male,Male
+Hans,1,['Hans'],Male,Male
+Archimedes,1,['Archimedes'],Unknown,Unknown
+Nordau,1,['Nordau'],Male,Male
+Lombroso,1,['Lombroso'],Male,Male
+Cattle,1,['Cattle'],Unknown,Unknown
+Me,1,['Me'],Male,Male
+De_Ville,1,[' de Ville'],Unknown,Unknown
+Petrof,1,['Petrof'],Unknown,Unknown
+Hildes,1,['Hildes'],Unknown,Unknown
+Paxt,1,['Paxt'],Unknown,Unknown
+Lordship,1,['Lordship'],Male,Male
+Bistritza,1,['Bistritza'],Unknown,Female

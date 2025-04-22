@@ -1,0 +1,221 @@
+canonical_key,total_mentions,variation_count,variations,classified_gender,final_gender,contextual_gender,male_pronouns,female_pronouns,context_mentions,final_gender_contextual
+Lucy,240,1,['Lucy'],Female,Female,Unknown,0,0,0,Female
+Van_Helsing,215,1,['Van Helsing'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Mina,197,2,"['MINA', 'Mina']",Unknown,Unknown,Male,88,79,228,Male
+Jonathan,178,3,"[' Jonathan', 'JONATHAN', 'Jonathan']",Male,Male,Unknown,0,0,0,Male
+Arthur,154,3,"['Art', 'Arthur', 'Lord Arthur']",Male,Male,Unknown,0,0,0,Male
+Professor,117,1,['Professor'],Unknown,Unknown,Male,127,29,174,Male
+Lord_Godalming,90,2,"['Godalming', 'Lord Godalming']",Male,Male,Unknown,0,0,0,Male
+Seward,84,1,[' Seward'],Unknown,Unknown,Male,71,7,139,Male
+Harker,66,1,[' Harker'],Unknown,Unknown,Male,96,52,175,Male
+God,66,1,['God'],Unknown,Unknown,Male,87,43,177,Male
+John,62,2,"['JOHN', 'John']",Male,Male,Unknown,0,0,0,Male
+Van_Helsing,52,1,[' Van Helsing'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Van,50,1,['Van'],Unknown,Unknown,Male,230,96,323,Male
+Quincey,48,1,['Quincey'],Unknown,Unknown,Male,59,5,85,Male
+Harker,46,1,['Harker'],Unknown,Unknown,Male,96,52,175,Male
+Renfield,36,1,['Renfield'],Unknown,Unknown,Male,46,3,48,Male
+Seward,32,1,['Seward'],Unknown,Unknown,Male,71,7,139,Male
+Morris,32,1,[' Morris'],Male,Male,Unknown,0,0,0,Male
+Jonathan_Harker,24,1,['Jonathan Harker'],Male,Male,Unknown,0,0,0,Male
+Miss_Lucy,21,1,['Miss Lucy'],Female,Female,Unknown,0,0,0,Female
+Count,20,1,['Count'],Unknown,Unknown,Male,179,40,198,Male
+Quincey_Morris,20,1,['Quincey Morris'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Morris,19,1,['Morris'],Male,Male,Unknown,0,0,0,Male
+Lucy_Westenra,16,2,"['Lucy Westenra', 'Miss Lucy Westenra']",Female,Female,Unknown,0,0,0,Female
+Mina_Harker,16,1,['Mina Harker'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Westenra,15,3,"['Miss Westenra', 'Mrs. Westenra', 'Westenra']",Unknown,Unknown,Male,17,15,45,Male
+Westenra,14,1,[' Westenra'],Unknown,Unknown,Male,17,15,45,Male
+Madam,14,1,['Madam'],Female,Female,Unknown,0,0,0,Female
+Hawkins,13,1,[' Hawkins'],Unknown,Unknown,Male,40,2,25,Male
+Dracula,11,1,['Dracula'],Unknown,Unknown,Male,41,0,36,Male
+Czarina,10,1,['Czarina'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Arthur_Holmwood,10,1,['Arthur Holmwood'],Male,Male,Unknown,0,0,0,Male
+Mina_Murray,10,2,"['Mina Murray', 'Miss Mina Murray']",Unknown,Unknown,Unknown,0,0,0,Unknown
+Count_Dracula,9,1,['Count Dracula'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Professor_Van_Helsing,9,1,['Professor Van Helsing'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Skinsky,9,1,['Skinsky'],Unknown,Unknown,Male,9,0,12,Male
+Hawkins,8,1,['Hawkins'],Unknown,Unknown,Male,40,2,25,Male
+Renfield,8,1,[' Renfield'],Unknown,Unknown,Male,46,3,48,Male
+Jack,8,1,['Jack'],Unknown,Unknown,Male,11,3,16,Male
+Galatz,8,1,['Galatz'],Unknown,Unknown,Male,22,0,18,Male
+Bersicker,6,1,['Bersicker'],Unknown,Unknown,Male,8,0,9,Male
+Peter_Hawkins,6,1,['Peter Hawkins'],Male,Male,Unknown,0,0,0,Male
+Holmwood,6,1,[' Holmwood'],Unknown,Unknown,Male,14,9,18,Male
+John_Seward,5,1,['John Seward'],Male,Male,Unknown,0,0,0,Male
+Swales,5,1,[' Swales'],Unknown,Unknown,Male,7,0,6,Male
+Murray,5,2,"['Miss Murray', 'Murray']",Unknown,Unknown,Female,0,6,15,Female
+Billington,4,1,[' Billington'],Unknown,Unknown,Male,5,0,9,Male
+Czarina_Catherine,4,1,['Czarina Catherine'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Catherine,4,1,['Catherine'],Female,Female,Unknown,0,0,0,Female
+Piccadilly,3,1,['Piccadilly'],Unknown,Unknown,Male,14,1,22,Male
+Hildesheim,3,1,['Hildesheim'],Unknown,Unknown,Male,3,0,5,Male
+Deil,3,1,['Deil'],Unknown,Unknown,Male,3,0,5,Male
+Madam_Mina,3,1,['Madam Mina'],Female,Female,Unknown,0,0,0,Female
+Varna,3,1,['Varna'],Unknown,Unknown,Male,18,5,23,Male
+Smollet,3,1,['Smollet'],Unknown,Unknown,Male,5,1,7,Male
+Quincey_Morris,3,1,[' Quincey Morris'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Carfax,3,1,['Carfax'],Unknown,Unknown,Male,20,2,24,Male
+Enoch,3,1,['Enoch'],Male,Male,Unknown,0,0,0,Male
+Bilder,3,1,[' Bilder'],Unknown,Unknown,Male,9,0,6,Male
+Nature,3,1,['Nature'],Unknown,Unknown,Male,27,11,38,Male
+Helsing,3,1,['Helsing'],Unknown,Unknown,Male,230,96,323,Male
+Sister_Agatha,3,1,['Sister Agatha'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Whitby,3,1,['Whitby'],Unknown,Unknown,Male,33,8,40,Male
+Kettleness,3,1,['Kettleness'],Unknown,Unknown,Unknown,0,1,5,Unknown
+Billington,3,1,['Billington'],Unknown,Unknown,Male,5,0,9,Male
+Thomas,3,1,['Thomas'],Male,Male,Unknown,0,0,0,Male
+Devil,2,1,['Devil'],Unknown,Unknown,Male,29,7,15,Male
+Sam_Bloxam,2,1,['Sam Bloxam'],Male,Male,Unknown,0,0,0,Male
+Sam,2,1,['Sam'],Male,Male,Unknown,0,0,0,Male
+Potter,2,1,['Potter'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Corcoran,2,1,['Corcoran'],Unknown,Unknown,Male,2,0,2,Male
+Doctor,2,1,['Doctor'],Unknown,Unknown,Male,24,12,29,Male
+D,2,2,"['D', 'd']",Unknown,Unknown,Unknown,0,0,0,Unknown
+Captain_Donelson,2,2,"['Captain Donelson', 'Donelson']",Male,Male,Unknown,0,0,0,Male
+Winchesters,2,1,['Winchesters'],Unknown,Unknown,Unknown,0,0,4,Unknown
+Rufus,2,1,['Rufus'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Smith,2,1,['Smith'],Male,Male,Unknown,0,0,0,Male
+Petrof_Skinsky,2,1,['Petrof Skinsky'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Szgany,2,1,['Szgany'],Unknown,Unknown,Male,6,0,13,Male
+Carter_Paterson,2,1,['Carter Paterson'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Arminius,2,1,['Arminius'],Unknown,Unknown,Male,3,0,2,Male
+Jack_Seward,2,1,['Jack Seward'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Vincent,2,1,['Vincent'],Male,Male,Unknown,0,0,0,Male
+Death,2,1,['Death'],Unknown,Unknown,Male,49,40,95,Male
+Abraham,2,1,['Abraham'],Male,Male,Unknown,0,0,0,Male
+Hamlet,2,1,['Hamlet'],Unknown,Unknown,Unknown,1,0,2,Unknown
+Shakespeare,2,1,['Shakespeare'],Unknown,Unknown,Unknown,1,0,2,Unknown
+Quincey_P._Morris,2,1,['Quincey P. Morris'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Sir_John_Paxton,2,2,"['John Paxton', 'Sir John Paxton']",Male,Male,Unknown,0,0,0,Male
+Hon,2,1,['Hon'],Unknown,Unknown,Unknown,1,0,4,Unknown
+Thor,2,1,['Thor'],Unknown,Unknown,Male,2,0,2,Male
+Wilhelmina,2,1,['Wilhelmina'],Unknown,Unknown,Male,8,0,4,Male
+Lor,2,1,['Lor'],Unknown,Unknown,Male,3,2,4,Male
+Mother,2,1,['Mother'],Unknown,Unknown,Female,36,69,51,Female
+Bram_Stoker,2,1,['Bram Stoker'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Abraham_Van_Helsing,2,1,['Abraham Van Helsing'],Male,Male,Unknown,0,0,0,Male
+Ring,2,1,['Ring'],Unknown,Unknown,Female,9,10,18,Female
+Medusa,1,1,['Medusa'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Korkrans,1,1,['Korkrans'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Bloxam,1,1,['Bloxam'],Unknown,Unknown,Male,8,0,5,Male
+Joseph_Smollet,1,1,[' Joseph Smollet'],Male,Male,Unknown,0,0,0,Male
+Thomas_Snelling,1,1,['Thomas Snelling'],Male,Male,Unknown,0,0,0,Male
+Domine,1,1,['Domine'],Unknown,Unknown,Male,2,0,1,Male
+Union,1,1,['Union'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Derby,1,1,['Derby'],Unknown,Unknown,Male,3,0,1,Male
+Windham,1,1,['Windham'],Unknown,Unknown,Male,2,0,1,Male
+Draculas,1,1,['Draculas'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Hennessey,1,1,[' Hennessey'],Unknown,Unknown,Unknown,1,0,3,Unknown
+Goodness,1,1,['Goodness'],Unknown,Unknown,Female,4,8,7,Female
+Almighty_God,1,1,['Almighty God'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Poters_Cort,1,1,['Poters Cort'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Methuselah,1,1,['Methuselah'],Unknown,Unknown,Unknown,0,1,1,Unknown
+Scott,1,1,['Scott'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Vincent,1,1,[' Vincent'],Male,Male,Unknown,0,0,0,Male
+Byron,1,1,['Byron'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Parr,1,1,['Parr'],Unknown,Unknown,Unknown,0,1,1,Unknown
+Old,1,1,['Old'],Unknown,Unknown,Male,139,54,190,Male
+Bloxam,1,1,[' Bloxam'],Unknown,Unknown,Male,8,0,5,Male
+Charcot,1,1,['Charcot'],Unknown,Unknown,Male,2,0,2,Male
+Finis,1,1,['Finis'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Mary,1,1,['Mary'],Female,Female,Unknown,0,0,0,Female
+Holland,1,1,['Holland'],Unknown,Unknown,Male,2,0,1,Male
+John_Seward,1,1,[' John Seward'],Male,Male,Unknown,0,0,0,Male
+Ellen_Terry,1,1,['Ellen Terry'],Female,Female,Unknown,0,0,0,Female
+King,1,1,['King'],Unknown,Unknown,Male,18,0,16,Male
+Viking,1,1,['Viking'],Unknown,Unknown,Male,2,0,1,Male
+Arsk,1,1,['Arsk'],Unknown,Unknown,Male,3,0,5,Male
+Dead,1,1,['Dead'],Unknown,Unknown,Male,96,59,109,Male
+Malvolio,1,1,['Malvolio'],Unknown,Unknown,Male,2,0,1,Male
+Lordship,1,1,['Lordship'],Unknown,Unknown,Male,7,0,9,Male
+Paxt,1,1,['Paxt'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Hildes,1,1,['Hildes'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Petrof,1,1,['Petrof'],Unknown,Unknown,Unknown,1,0,2,Unknown
+De_Ville,1,1,[' de Ville'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Me,1,1,['Me'],Unknown,Unknown,Male,909,334,1455,Male
+Cattle,1,1,['Cattle'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Lombroso,1,1,['Lombroso'],Unknown,Unknown,Male,2,0,1,Male
+Nordau,1,1,['Nordau'],Unknown,Unknown,Male,2,0,1,Male
+Archimedes,1,1,['Archimedes'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Hans,1,1,['Hans'],Unknown,Unknown,Male,2,0,1,Male
+Morris_Quincey,1,1,['Morris Quincey'],Male,Male,Unknown,0,0,0,Male
+Exeter,1,1,['Exeter'],Unknown,Unknown,Male,20,3,17,Male
+Kukri,1,1,['Kukri'],Unknown,Unknown,Male,13,1,5,Male
+Rufus_Smith,1,1,['Rufus Smith'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Lloyd,1,1,['Lloyd'],Unknown,Unknown,Male,2,0,4,Male
+Dardanelles,1,1,['Dardanelles'],Unknown,Unknown,Unknown,0,1,5,Unknown
+Judge_Moneybag,1,1,['Judge Moneybag'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Angel,1,1,['Angel'],Unknown,Unknown,Female,1,3,5,Female
+Ristics,1,1,['Ristics'],Unknown,Unknown,Male,2,0,1,Male
+Doolittle,1,1,['Doolittle'],Unknown,Unknown,Female,0,2,2,Female
+Tally_Ho,1,1,['Tally Ho'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Arminus,1,1,['Arminus'],Unknown,Unknown,Unknown,1,0,1,Unknown
+Friend_Quincey,1,1,['Friend Quincey'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Harkers,1,1,['Harkers'],Unknown,Unknown,Male,2,0,2,Male
+Moon,1,1,['Moon'],Unknown,Unknown,Male,6,1,11,Male
+Acherontia,1,1,['Acherontia'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Simmons,1,1,['Simmons'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Green,1,1,['Green'],Unknown,Unknown,Male,10,2,20,Male
+Sir_Oracle,1,1,['Sir Oracle'],Male,Male,Unknown,0,0,0,Male
+Marquand,1,1,[' Marquand'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Casabianca,1,1,['Casabianca'],Unknown,Unknown,Male,2,0,1,Male
+Bay,1,1,['Bay'],Unknown,Unknown,Male,4,2,7,Male
+Hood,1,1,['Hood'],Unknown,Unknown,Female,0,3,5,Female
+Robin,1,1,['Robin'],Unknown,Unknown,Female,0,2,4,Female
+Woods,1,1,['Woods'],Unknown,Unknown,Unknown,0,1,5,Unknown
+Burdon,1,1,['Burdon'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Geordie,1,1,['Geordie'],Unknown,Unknown,Male,2,0,3,Male
+Gabriel,1,1,['Gabriel'],Male,Male,Unknown,0,0,0,Male
+George_Canon,1,1,['George Canon'],Male,Male,Unknown,0,0,0,Male
+Judgment,1,1,['Judgment'],Unknown,Unknown,Male,5,0,6,Male
+John_Rawlings,1,1,['John Rawlings'],Male,Male,Unknown,0,0,0,Male
+Andrew_Woodhouse,1,1,['Andrew Woodhouse'],Male,Male,Unknown,0,0,0,Male
+Braithwaite_Lowrey,1,1,['Braithwaite Lowrey'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Spencelagh,1,1,['Spencelagh'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Edward,1,1,['Edward'],Male,Male,Unknown,0,0,0,Male
+M,1,1,['M'],Unknown,Unknown,Unknown,0,0,0,Unknown
+R,1,1,['R'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Quincey_P._Morris,1,1,[' Quincey P. Morris'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Judas,1,1,['Judas'],Unknown,Unknown,Male,3,0,1,Male
+Peter,1,1,['Peter'],Male,Male,Unknown,0,0,0,Male
+Romanoffs,1,1,['Romanoffs'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Cassova,1,1,['Cassova'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Attila,1,1,['Attila'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Wodin,1,1,['Wodin'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Purfleet,1,1,['Purfleet'],Unknown,Unknown,Male,2,0,6,Male
+Harker_Jonathan,1,1,['Harker Jonathan'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Lenore,1,1,['Lenore'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Burger,1,1,['Burger'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Caffyn,1,1,['Caffyn'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Crescent,1,1,['Crescent'],Unknown,Unknown,Unknown,1,0,6,Unknown
+Hardy,1,1,['Hardy'],Unknown,Unknown,Unknown,0,0,1,Unknown
+S,1,1,['S'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Patrick_Hennessey,1,1,['Patrick Hennessey'],Male,Male,Unknown,0,0,0,Male
+Old_Bilder,1,1,['Old Bilder'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Red_Riding_Hood,1,1,['Red Riding Hood'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Bilder,1,1,['Bilder'],Unknown,Unknown,Male,9,0,6,Male
+Thomas_Bilder,1,1,['Thomas Bilder'],Male,Male,Unknown,0,0,0,Male
+Ophelia,1,1,['Ophelia'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Vanderpool,1,1,['Vanderpool'],Unknown,Unknown,Unknown,1,0,1,Unknown
+Love,1,1,['Love'],Unknown,Unknown,Male,73,34,84,Male
+Madame,1,1,['Madame'],Female,Female,Unknown,0,0,0,Female
+Dame_Nature,1,1,['Dame Nature'],Female,Female,Unknown,0,0,0,Female
+Holmwood,1,1,['Holmwood'],Unknown,Unknown,Male,14,9,18,Male
+Telegram,1,1,['Telegram'],Unknown,Unknown,Male,16,1,19,Male
+Zoöphagous,1,1,['Zoöphagous'],Unknown,Unknown,Male,13,0,5,Male
+Wire,1,1,['Wire'],Unknown,Unknown,Male,7,2,10,Male
+Write,1,1,['Write'],Unknown,Unknown,Male,39,9,63,Male
+Disraeli,1,1,['Disraeli'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Agatha,1,1,['Agatha'],Unknown,Unknown,Male,8,3,5,Male
+Jack_Sheppard,1,1,['Jack Sheppard'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Wilhelmina_Murray,1,1,['Wilhelmina Murray'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Joy,1,1,['Joy'],Unknown,Unknown,Male,8,5,16,Male
+Rose,1,1,['Rose'],Female,Female,Unknown,0,0,0,Female
+Mackenzie,1,1,['Mackenzie'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Spohr,1,1,['Spohr'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Olgaren,1,1,['Olgaren'],Unknown,Unknown,Unknown,1,0,1,Unknown
+Abramoff,1,1,['Abramoff'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Petrofsky,1,1,['Petrofsky'],Unknown,Unknown,Unknown,0,0,1,Unknown
+F,1,1,['F'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Bistritza,1,1,['Bistritza'],Unknown,Unknown,Unknown,1,0,6,Unknown

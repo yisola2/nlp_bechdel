@@ -1,0 +1,647 @@
+{
+  " Addison": [
+    " Addison",
+    "Addison"
+  ],
+  " Annesley": [
+    " Annesley"
+  ],
+  " Austen Leigh": [
+    " Austen Leigh",
+    "Austen Leigh"
+  ],
+  " Bennet": [
+    " Bennet",
+    "Bennet",
+    "Bennets"
+  ],
+  " Bingley": [
+    " Bingley",
+    "Bingley",
+    "Bingleys"
+  ],
+  " Collins": [
+    " Collins",
+    "Collins"
+  ],
+  " Darcy": [
+    " Darcy",
+    "Darcy"
+  ],
+  " Denny": [
+    " Denny",
+    "Denny"
+  ],
+  " Forster": [
+    " Forster",
+    "Forster",
+    "Forsters"
+  ],
+  " Gardiner": [
+    " Gardiner",
+    "Gardiner",
+    "Gardiners"
+  ],
+  " Goldwin Smith": [
+    " Goldwin Smith"
+  ],
+  " Hill": [
+    " Hill",
+    "Hill"
+  ],
+  " Hurst": [
+    " Hurst",
+    "Hurst"
+  ],
+  " Jenkinson": [
+    " Jenkinson"
+  ],
+  " Jones": [
+    " Jones",
+    "Jones"
+  ],
+  " Long": [
+    " Long",
+    "Long"
+  ],
+  " Morris": [
+    " Morris"
+  ],
+  " Musgrove": [
+    " Musgrove"
+  ],
+  " Nichols": [
+    " Nichols",
+    "Nicholls"
+  ],
+  " Norris": [
+    " Norris",
+    "Norris"
+  ],
+  " Philips": [
+    " Philips",
+    "Philips"
+  ],
+  " Reynolds": [
+    " Reynolds",
+    "Reynolds"
+  ],
+  " Robinson": [
+    " Robinson",
+    "Robinson"
+  ],
+  " Rushworth": [
+    " Rushworth"
+  ],
+  " Shapely": [
+    " Shapely"
+  ],
+  " Spectator": [
+    " Spectator"
+  ],
+  " Wickham": [
+    " Wickham",
+    "Wickham"
+  ],
+  " Younge": [
+    " Younge",
+    "Younge"
+  ],
+  " de Maupassant": [
+    " de Maupassant"
+  ],
+  "Anne": [
+    "Anne"
+  ],
+  "Anne Darcy": [
+    "Anne Darcy"
+  ],
+  "Argemone Lavington": [
+    "Argemone Lavington"
+  ],
+  "Austen": [
+    "Austen"
+  ],
+  "B": [
+    "B"
+  ],
+  "Barbara": [
+    "Barbara"
+  ],
+  "Beatrix": [
+    "Beatrix"
+  ],
+  "Bell": [
+    "Bell"
+  ],
+  "Ben": [
+    "Ben"
+  ],
+  "Boulanger": [
+    "Boulanger"
+  ],
+  "Bountiful": [
+    "Bountiful"
+  ],
+  "Bourgh": [
+    "Bourgh"
+  ],
+  "Brighton": [
+    "Brighton"
+  ],
+  "Bromley": [
+    "Bromley"
+  ],
+  "C": [
+    "C"
+  ],
+  "Captain Carter": [
+    "Captain Carter"
+  ],
+  "Caroline": [
+    "Caroline"
+  ],
+  "Caroline Bingley": [
+    "Caroline Bingley"
+  ],
+  "Carter": [
+    "Carter"
+  ],
+  "Catherin": [
+    "Catherin",
+    "Catherine"
+  ],
+  "Chamberlayne": [
+    "Chamberlayne"
+  ],
+  "Charles": [
+    "Charles"
+  ],
+  "Charlotte": [
+    "Charlotte"
+  ],
+  "Charlotte Lucas": [
+    "Charlotte Lucas"
+  ],
+  "Clapham": [
+    "Clapham"
+  ],
+  "Clarke": [
+    "Clarke"
+  ],
+  "Collinses": [
+    "Collinses"
+  ],
+  "Colonel F": [
+    "Colonel F"
+  ],
+  "Colonel Fitzwilliam": [
+    "Colonel Fitzwilliam"
+  ],
+  "Colonel Forster": [
+    "Colonel Forster"
+  ],
+  "Colonel Miller": [
+    "Colonel Miller"
+  ],
+  "Cosway": [
+    "Cosway"
+  ],
+  "Crawford": [
+    "Crawford"
+  ],
+  "Darc": [
+    "Darc"
+  ],
+  "Dawson": [
+    "Dawson"
+  ],
+  "De": [
+    "De",
+    "de"
+  ],
+  "De Bourgh": [
+    "De Bourgh"
+  ],
+  "Derbyshire": [
+    "Derbyshire"
+  ],
+  "Diana": [
+    "Diana"
+  ],
+  "Diana Vernon": [
+    "Diana Vernon"
+  ],
+  "Don Juanish": [
+    "Don Juanish"
+  ],
+  "Dovedale": [
+    "Dovedale"
+  ],
+  "E": [
+    "E"
+  ],
+  "Edmund": [
+    "Edmund"
+  ],
+  "Edward Street": [
+    "Edward Street"
+  ],
+  "Eliza": [
+    "Eliza"
+  ],
+  "Eliza Bennet": [
+    "Eliza Bennet"
+  ],
+  "Elizab": [
+    "Elizab",
+    "Elizabe"
+  ],
+  "Elizabeth": [
+    "Elizabeth"
+  ],
+  "Elizabeth Bennet": [
+    "Elizabeth Bennet"
+  ],
+  "Eltons": [
+    "Eltons"
+  ],
+  "Emma": [
+    "Emma"
+  ],
+  "F": [
+    "F"
+  ],
+  "Fanny": [
+    "Fanny"
+  ],
+  "Fielding": [
+    "Fielding"
+  ],
+  "Fitzwilliam": [
+    "Fitzwilliam"
+  ],
+  "Fitzwilliam Darcy": [
+    "Fitzwilliam Darcy"
+  ],
+  "Fordyce": [
+    "Fordyce"
+  ],
+  "Frank Churchill": [
+    "Frank Churchill"
+  ],
+  "G": [
+    "G"
+  ],
+  "General": [
+    "General"
+  ],
+  "George Allen": [
+    "George Allen"
+  ],
+  "George Saintsbury": [
+    "George Saintsbury"
+  ],
+  "George Wickham": [
+    "George Wickham"
+  ],
+  "Georgiana": [
+    "Georgiana"
+  ],
+  "Georgiana Darcy": [
+    "Georgiana Darcy"
+  ],
+  "Goulding": [
+    "Goulding",
+    "Gouldings"
+  ],
+  "Grant": [
+    "Grant"
+  ],
+  "Green": [
+    "Green"
+  ],
+  "Haggerston": [
+    "Haggerston"
+  ],
+  "Harriet": [
+    "Harriet"
+  ],
+  "Harringtons": [
+    "Harringtons"
+  ],
+  "Heaven": [
+    "Heaven"
+  ],
+  "Henry": [
+    "Henry"
+  ],
+  "Hertfordshire": [
+    "Hertfordshire"
+  ],
+  "Hi": [
+    "Hi"
+  ],
+  "Hugh Thomson Ruskin": [
+    "Hugh Thomson Ruskin"
+  ],
+  "Hunsford": [
+    "Hunsford"
+  ],
+  "Hursts": [
+    "Hursts"
+  ],
+  "James": [
+    "James"
+  ],
+  "Jane": [
+    "Jane"
+  ],
+  "Jane Austen": [
+    "Jane Austen"
+  ],
+  "Jane Bennet": [
+    "Jane Bennet"
+  ],
+  "Jane Fairfax": [
+    "Jane Fairfax"
+  ],
+  "John": [
+    "John"
+  ],
+  "John Dashwood": [
+    "John Dashwood"
+  ],
+  "John Thorpe": [
+    "John Thorpe"
+  ],
+  "Kent": [
+    "Kent"
+  ],
+  "King": [
+    "King"
+  ],
+  "Kitty": [
+    "Kitty"
+  ],
+  "Lady Anne": [
+    "Lady Anne"
+  ],
+  "Lady Anne Darcy": [
+    "Lady Anne Darcy"
+  ],
+  "Lady Catherine": [
+    "Lady Catherine"
+  ],
+  "Lady Catherine de Bourgh": [
+    "Lady Catherine de Bourgh"
+  ],
+  "Lady Lucas": [
+    "Lady Lucas"
+  ],
+  "Lady Metcalfe": [
+    "Lady Metcalfe"
+  ],
+  "Lady Powerful": [
+    "Lady Powerful"
+  ],
+  "Ladyship": [
+    "Ladyship"
+  ],
+  "Lambton": [
+    "Lambton"
+  ],
+  "Lizzie": [
+    "Lizzie"
+  ],
+  "Lizzy": [
+    "Lizzy"
+  ],
+  "Lodge": [
+    "Lodge"
+  ],
+  "Longbourn": [
+    "Longbourn"
+  ],
+  "Louisa": [
+    "Louisa"
+  ],
+  "Lucas": [
+    "Lucas"
+  ],
+  "Lucas Lodge": [
+    "Lucas Lodge"
+  ],
+  "Lucases": [
+    "Lucases"
+  ],
+  "Lydia": [
+    "Lydia"
+  ],
+  "Lydia Bennet": [
+    "Lydia Bennet"
+  ],
+  "Lydia Wickham": [
+    "Lydia Wickham"
+  ],
+  "M": [
+    "M"
+  ],
+  "Mamma": [
+    "Mamma"
+  ],
+  "Maria": [
+    "Maria"
+  ],
+  "Maria Lucas": [
+    "Maria Lucas"
+  ],
+  "Mary": [
+    "Mary"
+  ],
+  "Mary King": [
+    "Mary King"
+  ],
+  "Mary Wollstonecraft": [
+    "Mary Wollstonecraft"
+  ],
+  "Meissonier": [
+    "Meissonier"
+  ],
+  "Memling": [
+    "Memling"
+  ],
+  "Mentor": [
+    "Mentor"
+  ],
+  "Meryton": [
+    "Meryton"
+  ],
+  "Miller": [
+    "Miller"
+  ],
+  "Miss Austen": [
+    "Miss Austen"
+  ],
+  "Miss Bates": [
+    "Miss Bates"
+  ],
+  "Miss Bennet": [
+    "Miss Bennet",
+    "Miss Bennets"
+  ],
+  "Miss Bingley": [
+    "Miss Bingley"
+  ],
+  "Miss Burney": [
+    "Miss Burney"
+  ],
+  "Miss Darcy": [
+    "Miss Darcy"
+  ],
+  "Miss De Bourgh": [
+    "Miss De Bourgh",
+    "Miss de Bourgh"
+  ],
+  "Miss Eliza": [
+    "Miss Eliza"
+  ],
+  "Miss Eliza Bennet": [
+    "Miss Eliza Bennet"
+  ],
+  "Miss Elizabeth": [
+    "Miss Elizabeth"
+  ],
+  "Miss Elizabeth Bennet": [
+    "Miss Elizabeth Bennet"
+  ],
+  "Miss Grantley": [
+    "Miss Grantley"
+  ],
+  "Miss King": [
+    "Miss King"
+  ],
+  "Miss Lizzy": [
+    "Miss Lizzy"
+  ],
+  "Miss Lucas": [
+    "Miss Lucas"
+  ],
+  "Miss Lucases": [
+    "Miss Lucases"
+  ],
+  "Miss Lydia": [
+    "Miss Lydia"
+  ],
+  "Miss Lydia Bennet": [
+    "Miss Lydia Bennet"
+  ],
+  "Miss Pope": [
+    "Miss Pope"
+  ],
+  "Miss Watson": [
+    "Miss Watson"
+  ],
+  "Miss Webbs": [
+    "Miss Webbs"
+  ],
+  "Netherfield": [
+    "Netherfield"
+  ],
+  "Newcastle": [
+    "Newcastle"
+  ],
+  "Niece": [
+    "Niece"
+  ],
+  "O": [
+    "O"
+  ],
+  "Observing": [
+    "Observing"
+  ],
+  "Pemberley": [
+    "Pemberley"
+  ],
+  "Pen": [
+    "Pen"
+  ],
+  "Philipses": [
+    "Philipses"
+  ],
+  "Philistinism": [
+    "Philistinism"
+  ],
+  "Pratt": [
+    "Pratt"
+  ],
+  "Pray": [
+    "Pray"
+  ],
+  "Richard": [
+    "Richard"
+  ],
+  "Rosings": [
+    "Rosings"
+  ],
+  "Sally": [
+    "Sally"
+  ],
+  "Sarah": [
+    "Sarah"
+  ],
+  "Scott": [
+    "Scott"
+  ],
+  "Sir Lewis de Bourgh": [
+    "Sir Lewis de Bourgh"
+  ],
+  "Sir William": [
+    "Sir William"
+  ],
+  "Sir William Lucas": [
+    "Sir William Lucas"
+  ],
+  "Smollett": [
+    "Smollett"
+  ],
+  "St": [
+    "St"
+  ],
+  "Stone": [
+    "Stone"
+  ],
+  "Street": [
+    "Street"
+  ],
+  "Swift": [
+    "Swift"
+  ],
+  "Thackeray": [
+    "Thackeray"
+  ],
+  "W": [
+    "W"
+  ],
+  "Walt Whitman": [
+    "Walt Whitman"
+  ],
+  "Well": [
+    "Well"
+  ],
+  "Westerham": [
+    "Westerham"
+  ],
+  "William": [
+    "William"
+  ],
+  "William Goulding": [
+    "William Goulding"
+  ],
+  "Woods": [
+    "Woods"
+  ],
+  "aunt": [
+    "aunt"
+  ]
+}

@@ -1,0 +1,210 @@
+canonical_key,total_mentions,variation_count,variations,classified_gender,final_gender,contextual_gender,male_pronouns,female_pronouns,context_mentions,final_gender_contextual
+Elizabeth,613,2,"['Elizabeth', 'Miss Eliza']",Female,Female,Unknown,0,0,0,Female
+Jane,295,1,['Jane'],Female,Female,Unknown,0,0,0,Female
+Darcy,252,1,[' Darcy'],Unknown,Unknown,Female,410,465,429,Female
+Bennet,226,1,[' Bennet'],Unknown,Unknown,Female,229,272,336,Female
+Bingley,218,2,"['Bingley', 'Miss Bingley']",Unknown,Unknown,Female,266,318,309,Female
+Darcy,193,2,"['Darcy', 'Miss Darcy']",Unknown,Unknown,Female,410,465,429,Female
+Collins,178,1,[' Collins'],Unknown,Unknown,Male,191,190,190,Male
+Lydia,172,2,"['Lydia', 'Miss Lydia']",Female,Female,Unknown,0,0,0,Female
+Wickham,141,1,['Wickham'],Unknown,Unknown,Male,242,184,200,Male
+Miss_Bennet,123,2,"['Bennet', 'Miss Bennet']",Female,Female,Unknown,0,0,0,Female
+Lizzy,103,3,"['Lizzie', 'Lizzy', 'Miss Elizabeth']",Female,Female,Unknown,0,0,0,Female
+Lady_Catherine,101,1,['Lady Catherine'],Female,Female,Unknown,0,0,0,Female
+Bingley,99,1,[' Bingley'],Unknown,Unknown,Female,266,318,309,Female
+Charlotte,94,2,"['Caroline', 'Charlotte']",Female,Female,Unknown,0,0,0,Female
+Gardiner,80,1,[' Gardiner'],Unknown,Unknown,Female,72,95,97,Female
+Kitty,72,1,['Kitty'],Female,Female,Unknown,0,0,0,Female
+Wickham,63,1,[' Wickham'],Unknown,Unknown,Male,242,184,200,Male
+Mary,42,1,['Mary'],Female,Female,Unknown,0,0,0,Female
+Miss_Lucas,42,2,"['Lady Lucas', 'Miss Lucas']",Female,Female,Unknown,0,0,0,Female
+Colonel_Fitzwilliam,37,2,"['Colonel Fitzwilliam', 'Fitzwilliam']",Male,Male,Unknown,0,0,0,Male
+Colonel_Forster,34,2,"['Colonel Forster', 'Forster']",Male,Male,Unknown,0,0,0,Male
+Sir_William,33,2,"['Bell', 'Sir William']",Male,Male,Unknown,0,0,0,Male
+Hurst,32,1,[' Hurst'],Unknown,Unknown,Female,18,29,33,Female
+Catherine,31,1,['Catherine'],Female,Female,Unknown,0,0,0,Female
+Collins,27,1,['Collins'],Unknown,Unknown,Male,191,190,190,Male
+Gardiner,27,1,['Gardiner'],Unknown,Unknown,Female,72,95,97,Female
+Miss_Austen,26,2,"['Austen', 'Miss Austen']",Female,Female,Unknown,0,0,0,Female
+Philips,25,1,[' Philips'],Unknown,Unknown,Female,39,40,34,Female
+Miss_De_Bourgh,22,3,"['De Bourgh', 'Miss De Bourgh', 'Miss de Bourgh']",Female,Female,Unknown,0,0,0,Female
+Meryton,21,1,['Meryton'],Unknown,Unknown,Male,55,34,57,Male
+Maria,20,1,['Maria'],Female,Female,Unknown,0,0,0,Female
+Ladyship,19,1,['Ladyship'],Unknown,Unknown,Female,29,83,42,Female
+Longbourn,17,1,['Longbourn'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Lucases,16,2,"['Lucases', 'Miss Lucases']",Unknown,Unknown,Female,8,9,15,Female
+Eliza,16,1,['Eliza'],Female,Female,Unknown,0,0,0,Female
+Denny,15,2,"[' Denny', 'Denny']",Unknown,Unknown,Male,16,3,12,Male
+Netherfield,15,1,['Netherfield'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Georgiana,14,1,['Georgiana'],Female,Female,Unknown,0,0,0,Female
+Lady_Catherine_De_Bourgh,13,1,['Lady Catherine de Bourgh'],Female,Female,Unknown,0,0,0,Female
+Philips,13,1,['Philips'],Unknown,Unknown,Female,39,40,34,Female
+Long,13,1,[' Long'],Unknown,Unknown,Female,87,104,118,Female
+Rosings,13,1,['Rosings'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Forster,11,1,[' Forster'],Unknown,Unknown,Female,28,30,39,Female
+Pemberley,10,1,['Pemberley'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Lucas,10,1,['Lucas'],Unknown,Unknown,Female,89,90,71,Female
+Miss_Bennets,10,2,"['Bennets', 'Miss Bennets']",Female,Female,Unknown,0,0,0,Female
+Sir_William_Lucas,10,1,['Sir William Lucas'],Male,Male,Unknown,0,0,0,Male
+Jenkinson,9,1,[' Jenkinson'],Unknown,Unknown,Female,0,15,9,Female
+Charlotte_Lucas,9,1,['Charlotte Lucas'],Female,Female,Unknown,0,0,0,Female
+Reynolds,8,1,[' Reynolds'],Unknown,Unknown,Female,7,10,10,Female
+Elizabeth_Bennet,7,2,"['Elizabeth Bennet', 'Miss Elizabeth Bennet']",Female,Female,Unknown,0,0,0,Female
+William,7,1,['William'],Male,Male,Unknown,0,0,0,Male
+Charles,7,1,['Charles'],Male,Male,Unknown,0,0,0,Male
+Bourgh,7,1,['Bourgh'],Unknown,Unknown,Female,46,50,41,Female
+George_Wickham,7,1,['George Wickham'],Male,Male,Unknown,0,0,0,Male
+Gardiners,6,1,['Gardiners'],Unknown,Unknown,Male,3,1,8,Male
+Louisa,6,1,['Louisa'],Female,Female,Unknown,0,0,0,Female
+Hill,6,1,['Hill'],Unknown,Unknown,Female,0,5,11,Female
+Collinses,6,1,['Collinses'],Unknown,Unknown,Female,3,4,6,Female
+Bingleys,5,1,['Bingleys'],Unknown,Unknown,Female,13,14,6,Female
+Hunsford,5,1,['Hunsford'],Unknown,Unknown,Unknown,0,0,0,Unknown
+F,5,2,"['Colonel F', 'F']",Unknown,Unknown,Unknown,0,0,0,Unknown
+Miss_King,5,1,['Miss King'],Female,Female,Unknown,0,0,0,Female
+Swift,5,1,['Swift'],Unknown,Unknown,Female,1,2,5,Female
+Hurst,4,1,['Hurst'],Unknown,Unknown,Female,18,29,33,Female
+Long,4,1,['Long'],Unknown,Unknown,Female,87,104,118,Female
+Captain_Carter,4,2,"['Captain Carter', 'Carter']",Male,Male,Unknown,0,0,0,Male
+Jones,4,1,[' Jones'],Unknown,Unknown,Female,3,10,5,Female
+Miss_Lydia_Bennet,4,2,"['Lydia Bennet', 'Miss Lydia Bennet']",Female,Female,Unknown,0,0,0,Female
+Addison,4,1,['Addison'],Unknown,Unknown,Female,0,2,5,Female
+Fielding,4,1,['Fielding'],Unknown,Unknown,Unknown,0,1,4,Unknown
+Derbyshire,3,1,['Derbyshire'],Unknown,Unknown,Male,46,26,25,Male
+Sir_Lewis_De_Bourgh,3,1,['Sir Lewis de Bourgh'],Male,Male,Unknown,0,0,0,Male
+Annesley,3,1,[' Annesley'],Unknown,Unknown,Female,0,5,3,Female
+Reynolds,3,1,['Reynolds'],Unknown,Unknown,Female,7,10,10,Female
+Younge,3,1,[' Younge'],Unknown,Unknown,Female,8,9,4,Female
+Anne,3,1,['Anne'],Female,Female,Unknown,0,0,0,Female
+De,3,2,"['De', 'de']",Unknown,Unknown,Female,47,50,43,Female
+Colonel_Miller,3,2,"['Colonel Miller', 'Miller']",Male,Male,Unknown,0,0,0,Male
+Kent,3,1,['Kent'],Unknown,Unknown,Female,18,20,14,Female
+Miss_Eliza_Bennet,3,2,"['Eliza Bennet', 'Miss Eliza Bennet']",Female,Female,Unknown,0,0,0,Female
+Robinson,3,1,[' Robinson'],Male,Male,Unknown,0,0,0,Male
+Robinson,3,1,['Robinson'],Male,Male,Unknown,0,0,0,Male
+Lucas_Lodge,3,1,['Lucas Lodge'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Emma,3,1,['Emma'],Female,Female,Unknown,0,0,0,Female
+John,2,1,['John'],Male,Male,Unknown,0,0,0,Male
+King,2,1,['King'],Unknown,Unknown,Male,8,3,8,Male
+Harriet,2,1,['Harriet'],Female,Female,Unknown,0,0,0,Female
+Pratt,2,1,['Pratt'],Unknown,Unknown,Male,2,0,2,Male
+W,2,1,['W'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Lady_Anne_Darcy,2,2,"['Anne Darcy', 'Lady Anne Darcy']",Female,Female,Unknown,0,0,0,Female
+Hill,2,1,[' Hill'],Unknown,Unknown,Female,0,5,11,Female
+Haggerston,2,1,['Haggerston'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Gouldings,2,1,['Gouldings'],Unknown,Unknown,Unknown,0,1,2,Unknown
+General,2,1,['General'],Unknown,Unknown,Male,57,50,54,Male
+Newcastle,2,1,['Newcastle'],Unknown,Unknown,Female,1,2,4,Female
+Miss_Lizzy,2,1,['Miss Lizzy'],Female,Female,Unknown,0,0,0,Female
+Heaven,2,1,['Heaven'],Unknown,Unknown,Unknown,0,0,12,Unknown
+Philipses,2,1,['Philipses'],Unknown,Unknown,Unknown,1,1,2,Unknown
+Eltons,2,1,['Eltons'],Unknown,Unknown,Female,0,3,2,Female
+Mamma,2,1,['Mamma'],Unknown,Unknown,Female,7,9,11,Female
+Fanny,2,1,['Fanny'],Female,Female,Unknown,0,0,0,Female
+Crawford,2,1,['Crawford'],Unknown,Unknown,Male,2,0,2,Male
+Norris,2,1,[' Norris'],Unknown,Unknown,Male,2,1,2,Male
+Jane_Austen,2,1,['Jane Austen'],Female,Female,Unknown,0,0,0,Female
+M,2,1,['M'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Thackeray,2,1,['Thackeray'],Unknown,Unknown,Unknown,1,0,2,Unknown
+Beatrix,2,1,['Beatrix'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Barbara,2,1,['Barbara'],Female,Female,Unknown,0,0,0,Female
+Dawson,2,1,['Dawson'],Unknown,Unknown,Male,2,0,2,Male
+Elizabe,1,1,['Elizabe'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Harringtons,1,1,['Harringtons'],Unknown,Unknown,Unknown,0,1,1,Unknown
+Mary_King,1,1,['Mary King'],Female,Female,Unknown,0,0,0,Female
+Bromley,1,1,['Bromley'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Lady_Anne,1,1,['Lady Anne'],Female,Female,Unknown,0,0,0,Female
+O,1,1,['O'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Darc,1,1,['Darc'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Miss_Pope,1,1,['Miss Pope'],Female,Female,Unknown,0,0,0,Female
+Lady_Metcalfe,1,1,['Lady Metcalfe'],Female,Female,Unknown,0,0,0,Female
+Miss_Webbs,1,1,['Miss Webbs'],Female,Female,Unknown,0,0,0,Female
+Elizab,1,1,['Elizab'],Unknown,Unknown,Unknown,0,0,0,Unknown
+James,1,1,['James'],Male,Male,Unknown,0,0,0,Male
+Maria_Lucas,1,1,['Maria Lucas'],Female,Female,Unknown,0,0,0,Female
+Hi,1,1,['Hi'],Unknown,Unknown,Unknown,0,0,0,Unknown
+C,1,1,['C'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Fitzwilliam_Darcy,1,1,['Fitzwilliam Darcy'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Lodge,1,1,['Lodge'],Unknown,Unknown,Male,14,6,8,Male
+Chamberlayne,1,1,['Chamberlayne'],Unknown,Unknown,Unknown,0,0,1,Unknown
+St,1,1,['St'],Unknown,Unknown,Male,14,7,7,Male
+Georgiana_Darcy,1,1,['Georgiana Darcy'],Female,Female,Unknown,0,0,0,Female
+Caroline_Bingley,1,1,['Caroline Bingley'],Female,Female,Unknown,0,0,0,Female
+Pray,1,1,['Pray'],Unknown,Unknown,Female,8,10,26,Female
+Pen,1,1,['Pen'],Unknown,Unknown,Unknown,0,1,3,Unknown
+Brighton,1,1,['Brighton'],Unknown,Unknown,Female,7,14,24,Female
+Aunt,1,1,['aunt'],Unknown,Unknown,Female,56,107,86,Female
+William_Goulding,1,1,['William Goulding'],Male,Male,Unknown,0,0,0,Male
+Hertfordshire,1,1,['Hertfordshire'],Unknown,Unknown,Male,49,39,41,Male
+Ben,1,1,['Ben'],Male,Male,Unknown,0,0,0,Male
+Sarah,1,1,['Sarah'],Female,Female,Unknown,0,0,0,Female
+Well,1,1,['Well'],Unknown,Unknown,Female,162,198,230,Female
+Nichols,1,1,[' Nichols'],Unknown,Unknown,Female,0,2,1,Female
+Street,1,1,['Street'],Unknown,Unknown,Male,17,14,19,Male
+Younge,1,1,['Younge'],Unknown,Unknown,Female,8,9,4,Female
+Edward_Street,1,1,['Edward Street'],Male,Male,Unknown,0,0,0,Male
+Niece,1,1,['Niece'],Unknown,Unknown,Female,18,30,22,Female
+Stone,1,1,['Stone'],Unknown,Unknown,Unknown,0,0,2,Unknown
+Goulding,1,1,['Goulding'],Unknown,Unknown,Male,4,0,1,Male
+B,1,1,['B'],Unknown,Unknown,Unknown,0,0,0,Unknown
+E,1,1,['E'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Clapham,1,1,['Clapham'],Unknown,Unknown,Male,6,0,4,Male
+Sally,1,1,['Sally'],Female,Female,Unknown,0,0,0,Female
+Lydia_Wickham,1,1,['Lydia Wickham'],Female,Female,Unknown,0,0,0,Female
+Green,1,1,['Green'],Unknown,Unknown,Male,2,0,3,Male
+Forsters,1,1,['Forsters'],Unknown,Unknown,Unknown,0,1,1,Unknown
+Fordyce,1,1,['Fordyce'],Unknown,Unknown,Unknown,1,0,2,Unknown
+Lambton,1,1,['Lambton'],Unknown,Unknown,Female,1,14,10,Female
+Dovedale,1,1,['Dovedale'],Unknown,Unknown,Female,0,5,2,Female
+Woods,1,1,['Woods'],Unknown,Unknown,Female,4,10,7,Female
+Richard,1,1,['Richard'],Male,Male,Unknown,0,0,0,Male
+Hursts,1,1,['Hursts'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Westerham,1,1,['Westerham'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Scott,1,1,['Scott'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Meissonier,1,1,['Meissonier'],Unknown,Unknown,Unknown,1,0,1,Unknown
+Memling,1,1,['Memling'],Unknown,Unknown,Unknown,1,0,1,Unknown
+Goldwin_Smith,1,1,[' Goldwin Smith'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Musgrove,1,1,[' Musgrove'],Unknown,Unknown,Female,1,3,1,Female
+Mentor,1,1,['Mentor'],Unknown,Unknown,Female,1,3,1,Female
+Shapely,1,1,[' Shapely'],Unknown,Unknown,Female,1,3,1,Female
+Addison,1,1,[' Addison'],Unknown,Unknown,Female,0,2,5,Female
+Miss_Burney,1,1,['Miss Burney'],Female,Female,Unknown,0,0,0,Female
+Smollett,1,1,['Smollett'],Unknown,Unknown,Unknown,0,1,1,Unknown
+Spectator,1,1,[' Spectator'],Unknown,Unknown,Unknown,4,4,3,Unknown
+John_Thorpe,1,1,['John Thorpe'],Male,Male,Unknown,0,0,0,Male
+Jane_Fairfax,1,1,['Jane Fairfax'],Female,Female,Unknown,0,0,0,Female
+Frank_Churchill,1,1,['Frank Churchill'],Male,Male,Unknown,0,0,0,Male
+Rushworth,1,1,[' Rushworth'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Miss_Bates,1,1,['Miss Bates'],Female,Female,Unknown,0,0,0,Female
+Norris,1,1,['Norris'],Unknown,Unknown,Male,2,1,2,Male
+Edmund,1,1,['Edmund'],Male,Male,Unknown,0,0,0,Male
+Walt_Whitman,1,1,['Walt Whitman'],Unknown,Unknown,Unknown,0,0,0,Unknown
+George_Allen,1,1,['George Allen'],Male,Male,Unknown,0,0,0,Male
+Hugh_Thomson_Ruskin,1,1,['Hugh Thomson Ruskin'],Male,Male,Unknown,0,0,0,Male
+George_Saintsbury,1,1,['George Saintsbury'],Male,Male,Unknown,0,0,0,Male
+Cosway,1,1,['Cosway'],Unknown,Unknown,Unknown,1,0,1,Unknown
+Mary_Wollstonecraft,1,1,['Mary Wollstonecraft'],Female,Female,Unknown,0,0,0,Female
+Nicholls,1,1,['Nicholls'],Unknown,Unknown,Male,2,1,1,Male
+De_Maupassant,1,1,[' de Maupassant'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Miss_Grantley,1,1,['Miss Grantley'],Female,Female,Unknown,0,0,0,Female
+Jane_Bennet,1,1,['Jane Bennet'],Female,Female,Unknown,0,0,0,Female
+Jones,1,1,['Jones'],Unknown,Unknown,Female,3,10,5,Female
+Clarke,1,1,['Clarke'],Unknown,Unknown,Unknown,0,1,1,Unknown
+Miss_Watson,1,1,['Miss Watson'],Female,Female,Unknown,0,0,0,Female
+G,1,1,['G'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Boulanger,1,1,['Boulanger'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Observing,1,1,['Observing'],Unknown,Unknown,Male,24,17,12,Male
+Morris,1,1,[' Morris'],Male,Male,Unknown,0,0,0,Male
+Diana,1,1,['Diana'],Female,Female,Unknown,0,0,0,Female
+Grant,1,1,['Grant'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Argemone_Lavington,1,1,['Argemone Lavington'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Diana_Vernon,1,1,['Diana Vernon'],Female,Female,Unknown,0,0,0,Female
+Henry,1,1,['Henry'],Male,Male,Unknown,0,0,0,Male
+Don_Juanish,1,1,['Don Juanish'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Austen_Leigh,1,1,[' Austen Leigh'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Austen_Leigh,1,1,['Austen Leigh'],Unknown,Unknown,Unknown,0,0,0,Unknown
+Bountiful,1,1,['Bountiful'],Unknown,Unknown,Unknown,0,0,1,Unknown
+Lady_Powerful,1,1,['Lady Powerful'],Female,Female,Unknown,0,0,0,Female
+Philistinism,1,1,['Philistinism'],Unknown,Unknown,Unknown,0,0,1,Unknown
+John_Dashwood,1,1,['John Dashwood'],Male,Male,Unknown,0,0,0,Male
+Catherin,1,1,['Catherin'],Unknown,Unknown,Unknown,0,0,0,Unknown

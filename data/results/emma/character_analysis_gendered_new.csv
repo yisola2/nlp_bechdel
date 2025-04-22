@@ -1,0 +1,242 @@
+canonical_key,total_mentions,variation_count,variations,classified_gender,final_gender
+Emma,844,1,['Emma'],Female,Female
+Harriet,476,1,['Harriet'],Female,Female
+Weston,382,1,[' Weston'],Unknown,Unknown
+Elton,347,1,[' Elton'],Unknown,Unknown
+Knightley,275,1,[' Knightley'],Unknown,Unknown
+Miss_Woodhouse,211,2,"['Miss Woodhouse', 'Woodhouse']",Female,Female
+Jane,197,1,['Jane'],Female,Female
+Miss_Fairfax,141,2,"['Fairfax', 'Miss Fairfax']",Female,Female
+Miss_Bates,130,2,"['Bates', 'Miss Bates']",Female,Female
+Woodhouse,120,1,[' Woodhouse'],Unknown,Unknown
+Frank_Churchill,120,1,['Frank Churchill'],Male,Male
+Weston,110,3,"['Captain Weston', 'Miss Weston', 'Weston']",Unknown,Unknown
+Jane_Fairfax,107,1,['Jane Fairfax'],Female,Female
+Knightley,90,1,['Knightley'],Unknown,Unknown
+Frank,85,1,['Frank'],Male,Male
+Perry,85,2,"[' Perry', 'Perry']",Unknown,Unknown
+Elton,82,1,['Elton'],Unknown,Unknown
+Cole,70,2,"[' Cole', 'Cole']",Unknown,Unknown
+Isabella,66,1,['Isabella'],Female,Female
+Miss_Smith,62,2,"['Miss Smith', 'Smith']",Female,Female
+Churchill,58,1,[' Churchill'],Unknown,Unknown
+Goddard,52,1,[' Goddard'],Unknown,Unknown
+Miss_Taylor,48,2,"['Miss Taylor', 'Taylor']",Female,Female
+Churchill,47,2,"['Churchill', 'Miss Churchill']",Unknown,Unknown
+Hartfield,45,1,['Hartfield'],Unknown,Unknown
+Colonel_Campbell,43,3,"['Campbell', 'Colonel Campbell', 'Miss Campbell']",Male,Male
+Randalls,42,1,['Randalls'],Unknown,Unknown
+Martin,40,1,[' Martin'],Male,Male
+John,36,1,['John'],Male,Male
+Dixon,36,1,[' Dixon'],Unknown,Unknown
+John_Knightley,33,1,['John Knightley'],Male,Male
+Harriet_Smith,29,2,"['Harriet Smith', 'Miss Harriet Smith']",Female,Female
+Robert_Martin,28,1,['Robert Martin'],Male,Male
+Campbells,25,1,['Campbells'],Unknown,Unknown
+Bates,24,1,[' Bates'],Unknown,Unknown
+Henry,23,1,['Henry'],Male,Male
+John_Knightley,22,1,[' John Knightley'],Male,Male
+Martin,21,2,"['Martin', 'Miss Martin']",Male,Male
+Miss_Hawkins,21,2,"['Hawkins', 'Miss Hawkins']",Female,Female
+Enscombe,20,1,['Enscombe'],Unknown,Unknown
+Eltons,20,1,['Eltons'],Unknown,Unknown
+Donwell,19,1,['Donwell'],Unknown,Unknown
+James,18,1,['James'],Male,Male
+Dixon,17,1,['Dixon'],Unknown,Unknown
+Frank_Churchill,16,1,[' Frank Churchill'],Male,Male
+Coles,16,1,['Coles'],Unknown,Unknown
+Churchills,15,2,"['Churchills', 'Mr. Churchills']",Unknown,Unknown
+Goddard,15,1,['Goddard'],Unknown,Unknown
+Highbury,14,1,['Highbury'],Unknown,Unknown
+Miss_Nash,14,2,"['Miss Nash', 'Nash']",Female,Female
+William_Larkins,13,1,['William Larkins'],Male,Male
+Suckling,13,1,[' Suckling'],Unknown,Unknown
+Patty,12,1,['Patty'],Unknown,Unknown
+Crown,11,1,['Crown'],Unknown,Unknown
+Martins,10,2,"['Martins', 'Miss Martins']",Unknown,Unknown
+Ford,10,2,"[' Ford', 'Ford']",Unknown,Unknown
+Selina,10,1,['Selina'],Female,Female
+E,10,1,['E'],Unknown,Unknown
+Wingfield,9,1,[' Wingfield'],Unknown,Unknown
+Campbell,9,1,[' Campbell'],Unknown,Unknown
+Abbey,8,1,['Abbey'],Unknown,Unknown
+William,8,1,['William'],Male,Male
+Smallridge,8,1,[' Smallridge'],Unknown,Unknown
+Westons,7,1,['Westons'],Unknown,Unknown
+Robert,7,1,['Robert'],Male,Male
+Bragge,7,1,[' Bragge'],Unknown,Unknown
+Elizabeth,6,1,['Elizabeth'],Female,Female
+George,6,1,['George'],Male,Male
+—,6,1,['—'],Unknown,Unknown
+Sucklings,6,1,['Sucklings'],Unknown,Unknown
+Mill,5,1,['Mill'],Unknown,Unknown
+Bateses,5,1,['Bateses'],Unknown,Unknown
+Coxes,5,2,"['Coxes', 'Miss Coxes']",Unknown,Unknown
+Hodges,5,1,[' Hodges'],Unknown,Unknown
+Emma_Woodhouse,4,1,['Emma Woodhouse'],Female,Female
+Knightleys,4,1,[' Knightleys'],Unknown,Unknown
+Cox,4,1,['Cox'],Unknown,Unknown
+Kingston,4,2,"['King', 'Kingston']",Unknown,Unknown
+Gilbert,4,1,[' Gilbert'],Male,Male
+Wright,4,1,['Wright'],Male,Male
+Maple,4,1,['Maple'],Unknown,Unknown
+Grove,4,1,['Grove'],Unknown,Unknown
+Otway,4,2,"['Miss Otway', 'Otway']",Unknown,Unknown
+Serle,3,1,['Serle'],Unknown,Unknown
+Bella,3,1,['Bella'],Unknown,Unknown
+Vicarage,3,1,['Vicarage'],Unknown,Unknown
+Papa,3,1,['Papa'],Unknown,Unknown
+Elizabeth_Martin,3,1,['Elizabeth Martin'],Female,Female
+Dixons,3,1,['Dixons'],Unknown,Unknown
+Stokes,3,1,[' Stokes'],Unknown,Unknown
+Hughes,3,1,[' Hughes'],Unknown,Unknown
+Miss_Bickerton,3,1,['Miss Bickerton'],Female,Female
+Smallridge,3,1,['Smallridge'],Unknown,Unknown
+Miss_W,3,2,"['Miss W', 'W']",Female,Female
+Windsor,3,1,['Windsor'],Unknown,Unknown
+Hannah,2,1,['Hannah'],Female,Female
+Perrys,2,1,['Perrys'],Unknown,Unknown
+Compare,2,1,['Compare'],Unknown,Unknown
+Bond,2,1,['Bond'],Unknown,Unknown
+Kitty,2,1,['Kitty'],Female,Female
+Miss_—_—_—,2,2,"['Miss — — —', '— — —']",Female,Female
+Eltons,2,1,[' Eltons'],Unknown,Unknown
+Knight,2,1,['Knight'],Unknown,Unknown
+William_Coxe,2,1,['William Coxe'],Male,Male
+Hetty,2,1,['Hetty'],Unknown,Unknown
+Bath,2,1,['Bath'],Unknown,Unknown
+Green,2,2,"[' Green', 'Green']",Unknown,Unknown
+Cox,2,1,[' Cox'],Unknown,Unknown
+Broadwood,2,1,['Broadwood'],Unknown,Unknown
+Anne_Cox,2,1,['Anne Cox'],Female,Female
+William_Cox,2,1,['William Cox'],Male,Male
+M,2,1,['M'],Unknown,Unknown
+Wallis,2,1,[' Wallis'],Unknown,Unknown
+Gilbert,2,1,['Gilbert'],Male,Male
+Short,2,1,['Short'],Unknown,Unknown
+Augusta,2,1,['Augusta'],Female,Female
+Partridge,2,1,[' Partridge'],Unknown,Unknown
+Little,2,1,['Little'],Unknown,Unknown
+Knightleys,2,1,['Knightleys'],Unknown,Unknown
+Richard,2,2,"[' Richard', 'Richard']",Male,Male
+Richmond,2,1,['Richmond'],Unknown,Unknown
+Bragges,2,1,['Bragges'],Unknown,Unknown
+God,2,1,['God'],Unknown,Unknown
+Box,2,1,['Box'],Unknown,Unknown
+S,2,1,['S'],Unknown,Unknown
+Adelaide,2,1,['Adelaide'],Female,Female
+Jane_Austen,1,1,['Jane Austen'],Female,Female
+Mitchell,1,1,['Mitchell'],Unknown,Unknown
+Iii,1,1,['III'],Unknown,Unknown
+Quick,1,1,['Quick'],Unknown,Unknown
+Miss_Prince,1,1,['Miss Prince'],Female,Female
+Miss_Richardson,1,1,['Miss Richardson'],Female,Female
+Vicar,1,1,['Vicar'],Unknown,Unknown
+Nobody,1,1,['Nobody'],Unknown,Unknown
+Miss_—_—,1,1,['Miss — —'],Female,Female
+Neptune,1,1,['Neptune'],Unknown,Unknown
+Miss_Smiths,1,1,['Miss Smiths'],Female,Female
+Shakespeare,1,1,['Shakespeare'],Unknown,Unknown
+Michaelmas,1,1,['Michaelmas'],Unknown,Unknown
+Church,1,1,['Church'],Unknown,Unknown
+Garrick,1,1,['Garrick'],Unknown,Unknown
+Westons,1,1,[' Westons'],Unknown,Unknown
+F,1,1,['F'],Unknown,Unknown
+C,1,1,['C'],Unknown,Unknown
+Weston_Churchill,1,1,['Weston Churchill'],Unknown,Unknown
+Wingfield,1,1,['Wingfield'],Unknown,Unknown
+Graham,1,1,[' Graham'],Unknown,Unknown
+Braithwaites,1,1,['Braithwaites'],Unknown,Unknown
+Charming,1,1,['Charming'],Unknown,Unknown
+Sighs,1,1,['Sighs'],Unknown,Unknown
+Woodhous,1,1,['Woodhous'],Unknown,Unknown
+Miss_Somebody_Else,1,1,['Miss Somebody else'],Female,Female
+Surry,1,1,['Surry'],Unknown,Unknown
+Baly,1,1,['Baly'],Unknown,Unknown
+He,1,1,['He'],Unknown,Unknown
+Lieut,1,1,['Lieut'],Unknown,Unknown
+Fairfax,1,1,[' Fairfax'],Unknown,Unknown
+Miss_Jane_Bates,1,1,['Miss Jane Bates'],Female,Female
+Augusta_Hawkins,1,1,['Augusta Hawkins'],Female,Female
+Brown,1,1,['Brown'],Unknown,Unknown
+Brown,1,1,[' Brown'],Unknown,Unknown
+Philip_Elton,1,1,['Philip Elton'],Male,Male
+Balls,1,1,['Balls'],Unknown,Unknown
+Elegant,1,1,['Elegant'],Unknown,Unknown
+Barnes,1,1,['Barnes'],Unknown,Unknown
+—_Highbury,1,1,['— Highbury'],Unknown,Unknown
+A,1,1,['A'],Unknown,Unknown
+Surprizes,1,1,['Surprizes'],Unknown,Unknown
+Yes,1,1,['Yes'],Unknown,Unknown
+John_Saunders,1,1,['John Saunders'],Male,Male
+Wallises,1,1,['Wallises'],Unknown,Unknown
+Wallis,1,1,['Wallis'],Unknown,Unknown
+Pray,1,1,['Pray'],Unknown,Unknown
+Cramer,1,1,['Cramer'],Unknown,Unknown
+Robin,1,1,['Robin'],Unknown,Unknown
+Adair,1,1,['Adair'],Unknown,Unknown
+Gilberts,1,1,['Gilberts'],Unknown,Unknown
+Taylor,1,1,[' Taylor'],Unknown,Unknown
+Miss_Emma,1,1,['Miss Emma'],Female,Female
+Stokes,1,1,['Stokes'],Unknown,Unknown
+Alas,1,1,['Alas'],Unknown,Unknown
+Suckling,1,1,['Suckling'],Unknown,Unknown
+Jeffereys,1,1,[' Jeffereys'],Unknown,Unknown
+Clara_Partridge,1,1,['Clara Partridge'],Female,Female
+Milmans,1,1,['Milmans'],Unknown,Unknown
+Bird,1,1,[' Bird'],Unknown,Unknown
+James_Cooper,1,1,[' James Cooper'],Male,Male
+Decidedly,1,1,['Decidedly'],Unknown,Unknown
+Elto,1,1,['Elto'],Unknown,Unknown
+Liable,1,1,['Liable'],Unknown,Unknown
+Well,1,1,['Well'],Unknown,Unknown
+Anne,1,1,['Anne'],Female,Female
+Clifton,1,1,['Clifton'],Unknown,Unknown
+Hymen,1,1,['Hymen'],Unknown,Unknown
+Tupman,1,1,['Tupman'],Unknown,Unknown
+Tupmans,1,1,['Tupmans'],Unknown,Unknown
+Aunt_Emma,1,1,['Aunt Emma'],Unknown,Unknown
+Uncle_Knightley,1,1,['Uncle Knightley'],Unknown,Unknown
+General,1,1,['General'],Unknown,Unknown
+Aladdin,1,1,['Aladdin'],Unknown,Unknown
+Bought,1,1,['Bought'],Unknown,Unknown
+Caroline,1,1,['Caroline'],Female,Female
+Arthur,1,1,['Arthur'],Male,Male
+Don,1,1,['Don'],Unknown,Unknown
+Fai,1,1,['Fai'],Unknown,Unknown
+Grandmama,1,1,['Grandmama'],Unknown,Unknown
+Tea,1,1,['Tea'],Unknown,Unknown
+George_Otway,1,1,[' George Otway'],Male,Male
+Em,1,1,['Em'],Unknown,Unknown
+June,1,1,['June'],Unknown,Unknown
+Cowper,1,1,['Cowper'],Unknown,Unknown
+P,1,1,['P'],Unknown,Unknown
+Lady_Patroness,1,1,['Lady Patroness'],Female,Female
+Mickleham,1,1,['Mickleham'],Unknown,Unknown
+Dorking,1,1,['Dorking'],Unknown,Unknown
+Chaperon,1,1,['Chaperon'],Unknown,Unknown
+Maple_Grove,1,1,['Maple Grove'],Unknown,Unknown
+John_Abdy,1,1,['John Abdy'],Male,Male
+Tom,1,1,['Tom'],Male,Male
+Goldsmith,1,1,['Goldsmith'],Unknown,Unknown
+Perrys,1,1,[' Perrys'],Unknown,Unknown
+Coles,1,1,[' Coles'],Unknown,Unknown
+Hartfie,1,1,['Hartfie'],Unknown,Unknown
+Brunswick,1,1,['Brunswick'],Unknown,Unknown
+Square,1,1,['Square'],Unknown,Unknown
+Miss_F_—,1,1,['Miss F —'],Female,Female
+Hill,1,1,['Hill'],Unknown,Unknown
+—,1,1,[' —'],Unknown,Unknown
+Depend,1,1,['Depend'],Unknown,Unknown
+Harry,1,1,['Harry'],Male,Male
+Madame_De_Genlis,1,1,['Madame de Genlis'],Female,Female
+Theodore,1,1,['Theodore'],Male,Male
+Nature,1,1,['Nature'],Unknown,Unknown
+Anna_Weston,1,1,['Anna Weston'],Female,Female
+K,1,1,['K'],Unknown,Unknown
+N,1,1,['N'],Unknown,Unknown
+Good,1,1,['Good'],Unknown,Unknown
+John_—,1,1,['John —'],Male,Male
+Astley,1,1,['Astley'],Unknown,Unknown
+Pilfering,1,1,['Pilfering'],Unknown,Unknown
+Robert_Martin,1,1,[' Robert Martin'],Male,Male

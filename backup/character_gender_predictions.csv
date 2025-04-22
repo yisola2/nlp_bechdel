@@ -1,0 +1,172 @@
+canonical_key,total_mentions,variations,variation_count,gender_from_xml,predicted_gender
+Elizabeth_Bennet,755,"Eliza, Eliza Bennet, Elizabeth, Elizabeth Bennet, Lizzy",5,Female,Female
+Mr_Darcy,422,"Darcy, Fitzwilliam Darcy",2,Male,Male
+Mrs_Bennet,319,Bennet,1,Female,Female
+Mr_Bingley,306,Bingley,1,Male,Male
+Jane_Bennet,295,Jane,1,Female,Female
+Mr_Wickham,198,"George, George Wickham, Wickham",3,Male,Male
+Collins,189,Collins,1,,Unknown
+Lydia_Bennet,175,"LYDIA BENNET, Lydia, Lydia Bennet",3,Female,Female
+Lady_Catherine,116,Catherine,1,Female,Female
+Gardiner,94,Gardiner,1,,Unknown
+Charlotte,87,"Charlotte, Charlotte Lucas",2,Female,Female
+Kitty_Bennet,71,Kitty,1,Female,Female
+Lucas,44,Lucas,1,,Unknown
+Mary_Bennet,39,Mary,1,Female,Female
+Forster,39,Forster,1,,Unknown
+Fitzwilliam,35,Fitzwilliam,1,,Unknown
+Philips,34,Philips,1,,Unknown
+Hurst,33,Hurst,1,,Unknown
+William,32,William,1,,Unknown
+Austen,25,Austen,1,,Unknown
+Pemberley,18,Pemberley,1,,Unknown
+maria,18,Maria,1,,Unknown
+Caroline_Bingley,17,"CAROLINE BINGLEY, Caroline, Caroline Bingley",3,Female,Female
+Long,15,Long,1,,Unknown
+Lucases,15,Lucases,1,,Unknown
+Longbourn,15,Longbourn,1,,Unknown
+Georgiana,14,Georgiana,1,,Unknown
+Netherfield,13,Netherfield,1,,Unknown
+de Bourgh,13,de Bourgh,1,,Unknown
+Catherine de Bourgh,13,Catherine de Bourgh,1,,Unknown
+Denny,12,Denny,1,,Unknown
+De Bourgh,11,De Bourgh,1,,Unknown
+Bennets,10,Bennets,1,,Unknown
+Reynolds,10,Reynolds,1,,Unknown
+William Lucas,9,William Lucas,1,,Unknown
+Jenkinson,9,Jenkinson,1,,Unknown
+Hill,8,Hill,1,,Unknown
+Charles,7,Charles,1,,Unknown
+Mr.,7,Mr.,1,,Male
+Hunsford,6,Hunsford,1,,Unknown
+Collinses,6,Collinses,1,,Unknown
+Louisa_Hurst,6,Louisa,1,Female,Female
+Bingleys,6,Bingleys,1,,Unknown
+Mrs.,5,Mrs.,1,,Female
+Jones,5,Jones,1,,Unknown
+Rosings,5,Rosings,1,,Unknown
+F.,5,F.,1,,Unknown
+Gardiners,5,Gardiners,1,,Unknown
+King,5,King,1,,Unknown
+Addison,5,Addison,1,,Unknown
+Anne,4,Anne,1,,Unknown
+Carter,4,Carter,1,,Unknown
+Younge,4,Younge,1,,Unknown
+Fielding,4,Fielding,1,,Unknown
+Robinson,3,Robinson,1,,Unknown
+Annesley,3,Annesley,1,,Unknown
+Emma,3,Emma,1,,Unknown
+Swift,3,Swift,1,,Unknown
+Lewis de Bourgh,3,Lewis de Bourgh,1,,Unknown
+Mamma,2,Mamma,1,,Unknown
+Fanny,2,Fanny,1,,Unknown
+Norris,2,Norris,1,,Unknown
+Eltons,2,Eltons,1,,Unknown
+Crawford,2,Crawford,1,,Unknown
+La,2,La,1,,Unknown
+Harriet,2,Harriet,1,,Unknown
+GARDINER,2,GARDINER,1,,Unknown
+Gouldings,2,Gouldings,1,,Unknown
+Pratt,2,Pratt,1,,Unknown
+Mary King,2,Mary King,1,,Unknown
+Ladyship,2,Ladyship,1,,Unknown
+Philipses,2,Philipses,1,,Unknown
+Haggerston,2,Haggerston,1,,Unknown
+W.,2,W.,1,,Unknown
+John,2,John,1,,Unknown
+Cruscans,2,Cruscans,1,,Unknown
+Thackeray,2,Thackeray,1,,Unknown
+Maria_Lucas,2,Maria Lucas,1,,Unknown
+Miller,2,Miller,1,,Unknown
+Lizzie,2,Lizzie,1,,Unknown
+Mentor,1,Mentor,1,,Unknown
+George Saintsbury,1,George Saintsbury,1,,Unknown
+"Hugh Thomson
+
+
+
+Ruskin",1,"Hugh Thomson
+
+
+
+Ruskin",1,,Unknown
+Jane Austen,1,Jane Austen,1,,Unknown
+Shapely,1,Shapely,1,,Unknown
+Burney,1,Burney,1,,Unknown
+Smollett,1,Smollett,1,,Unknown
+Jane Austen's,1,Jane Austen's,1,,Unknown
+Spectator,1,Spectator,1,,Unknown
+John Thorpe,1,John Thorpe,1,,Unknown
+Frank Churchill,1,Frank Churchill,1,,Unknown
+Jane Fairfax,1,Jane Fairfax,1,,Unknown
+George Allen,1,George Allen,1,,Unknown
+Bates,1,Bates,1,,Unknown
+Edmund,1,Edmund,1,,Unknown
+Walt Whitman,1,Walt Whitman,1,,Unknown
+Rushworth,1,Rushworth,1,,Unknown
+Argemone Lavington,1,Argemone Lavington,1,,Unknown
+Diana Vernon,1,Diana Vernon,1,,Unknown
+Hursts,1,Hursts,1,,Unknown
+Clarke,1,Clarke,1,,Unknown
+Watson,1,Watson,1,,Unknown
+William Lucas's,1,William Lucas's,1,,Unknown
+Barbara Grant,1,Barbara Grant,1,,Unknown
+Beatrix,1,Beatrix,1,,Unknown
+Michaelmas,1,Michaelmas,1,,Unknown
+Beatrix Esmond,1,Beatrix Esmond,1,,Unknown
+SAINTSBURY,1,SAINTSBURY,1,,Unknown
+Barbara,1,Barbara,1,,Unknown
+Diana,1,Diana,1,,Unknown
+Argemone,1,Argemone,1,,Unknown
+Morris,1,Morris,1,,Unknown
+Della,1,Della,1,,Unknown
+Goldwin Smith,1,Goldwin Smith,1,,Unknown
+Musgrove,1,Musgrove,1,,Unknown
+John Dashwood,1,John Dashwood,1,,Unknown
+Mary Wollstonecraft,1,Mary Wollstonecraft,1,,Unknown
+M. de Maupassant,1,M. de Maupassant,1,,Unknown
+Memling,1,Memling,1,,Unknown
+Meissonier,1,Meissonier,1,,Unknown
+Cosway,1,Cosway,1,,Unknown
+Scott,1,Scott,1,,Unknown
+Coleridge,1,Coleridge,1,,Unknown
+Austen Leigh,1,Austen Leigh,1,,Unknown
+Fordyce,1,Fordyce,1,,Unknown
+Henry Tilney,1,Henry Tilney,1,,Unknown
+Don Juanish,1,Don Juanish,1,,Unknown
+Venus,1,Venus,1,,Unknown
+Anne Darcy,1,Anne Darcy,1,,Unknown
+Catherine de Bourgh's,1,Catherine de Bourgh's,1,,Unknown
+Richard,1,Richard,1,,Unknown
+God,1,God,1,,Unknown
+Ramsgate,1,Ramsgate,1,,Unknown
+Pope,1,Pope,1,,Unknown
+Metcalfe,1,Metcalfe,1,,Unknown
+Lucas Lodge,1,Lucas Lodge,1,,Unknown
+Georgiana Darcy,1,Georgiana Darcy,1,,Unknown
+Webbs,1,Webbs,1,,Unknown
+Vain,1,Vain,1,,Unknown
+Grantley,1,Grantley,1,,Unknown
+Nicholls,1,Nicholls,1,,Unknown
+"Jane Bennet,--she",1,"Jane Bennet,--she",1,,Unknown
+Mr_Collins,1,WILLIAM COLLINS,1,Male,Male
+Harringtons,1,Harringtons,1,,Unknown
+Bromley,1,Bromley,1,,Unknown
+FITZWILLIAM DARCY.,1,FITZWILLIAM DARCY.,1,,Unknown
+Dawson,1,Dawson,1,,Unknown
+Dovedale,1,Dovedale,1,,Unknown
+Matlock,1,Matlock,1,,Unknown
+Chamberlayne,1,Chamberlayne,1,,Unknown
+Colonel,1,Colonel,1,,Male
+Pen,1,Pen,1,,Unknown
+Sally,1,Sally,1,,Unknown
+Lydia Wickham,1,Lydia Wickham,1,,Unknown
+Forsters,1,Forsters,1,,Unknown
+L.,1,L.,1,,Unknown
+EDW. GARDINER.,1,EDW. GARDINER.,1,,Unknown
+Ashworth,1,Ashworth,1,,Unknown
+William Goulding,1,William Goulding,1,,Unknown
+Stone,1,Stone,1,,Unknown
+Nichols,1,Nichols,1,,Unknown
+Sarah,1,Sarah,1,,Unknown
+Lambton,1,Lambton,1,,Unknown
